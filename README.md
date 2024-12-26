@@ -1,5 +1,5 @@
 # Active Directory Infrastructure Setup Lab
-![image](https://github.com/user-attachments/assets/52dab7aa-6f7f-4cb0-838a-7ab8b27b1887)
+![image](https://github.com/user-attachments/assets/bbd4ad5d-e99a-49ba-bbec-e38d68f85317)
 
 ## Overview
 In this lab, I prepared the foundational infrastructure for an Active Directory environment using Azure. This included setting up a Domain Controller (DC-1) and a client machine (Client-1) within the same Virtual Network to ensure connectivity and proper configuration.
